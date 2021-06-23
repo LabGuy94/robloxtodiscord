@@ -36,7 +36,7 @@ CHANNEL=the id of the channel that the message will be sent
 
 ![Wheretoputthevaribales](https://cdn.discordapp.com/attachments/717861061042241538/857064446279155722/Screenshot_2021-06-22_180757.png)
 
-* Obfuscate your roblox code to make sure that hacks cant find the ip of your server and ddoss it etc.
+### Obfuscate your roblox code to make sure that hacks cant find the ip of your server and ddoss it etc. ###
 
 * First create a random txt file on your desktop and put your script into it.
 
