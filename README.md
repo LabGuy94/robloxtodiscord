@@ -36,19 +36,6 @@ CHANNEL=the id of the channel that the message will be sent
 
 ![Wheretoputthevaribales](https://cdn.discordapp.com/attachments/717861061042241538/857064446279155722/Screenshot_2021-06-22_180757.png)
 
-### Obfuscate your roblox code to make sure that hacks cant find the ip of your server and ddoss it etc. ###
-
-* First create a random txt file on your desktop and put your script into it.
-
-* Go to https://obfuscator.aztupscripts.xyz/
-
-* Click on input file and use the txt file you made. Then use the settings in the image bellow then click obfuscate
-  
-![Settings](https://cdn.discordapp.com/attachments/717861061042241538/857065579394629632/Screenshot_2021-06-22_181226.png)
-
-Accept the download and copy the contents. Replace your code in roblox with the contents of the obfuscated version.
-
-Done! It should now work.
 
 ## Conclusion ##
 If you enjoyed it you can star it, if you are having errors contact me using the ways found on my github profile
